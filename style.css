@@ -451,7 +451,7 @@ transition: all 0.3s ease;
 /* blogs section start here */
 .blogs .title::after{
 
-    content: "Here's my blogs";
+    content: "my blogs";
 }
 
 .blogs .carousel .card{
